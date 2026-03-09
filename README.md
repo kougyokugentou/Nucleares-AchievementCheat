@@ -6,7 +6,7 @@ Automatically unlock all achievements in the game "Nucleares" using BepInEx and 
 Mosey on over to the 'releases' section and download the latest Nucleares-AchievementCheat.dll -- that's all you need.
 https://github.com/kougyokugentou/Nucleares-AchievementCheat/releases
  2. Install BepInEx (Prerequisite)
- a.  Go to the official BepInEx releases page: [https://github.com/BepInEx/BepInEx/releases](https://github.com/BepInEx/BepInEx/releases)     
+a.  Go to the official BepInEx releases page: [https://github.com/BepInEx/BepInEx/releases](https://github.com/BepInEx/BepInEx/releases)     
 b.  Download the appropriate version (usually **BepInEx_x64_5.x.x.x.zip**).  
 c.  Extract all files into your game's root directory (the folder containing the .exe).  
 d.  Run the game once. Wait until the main menu loads, then exit.  
